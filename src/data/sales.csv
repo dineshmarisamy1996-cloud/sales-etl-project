@@ -1,0 +1,13 @@
+OrderID,Customer,Product,Qty,Price
+1001,John,Laptop,1,65000
+1002,David,Mouse,2,500
+1003,Alex,Keyboard,1,1500
+1004,John,Laptop,1,65000
+1005,Sam,Monitor,2,12000
+1006,,Mouse,1,500
+1007,Ram,Keyboard,3,1500
+1008,Sara,Laptop,1,65000
+1009,David,Mouse,5,500
+1010,Alex,Monitor,1,12000
+1011,Dinesh,,4,599
+1012,Karthika,Ipad,,899

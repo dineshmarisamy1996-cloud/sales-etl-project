@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# PyCharm
+.idea/
+
+# Spark
+spark-warehouse/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ETL output
+src/output/
