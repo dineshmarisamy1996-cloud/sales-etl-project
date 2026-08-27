@@ -1,6 +1,6 @@
 import logging
 from pyspark.sql.functions import col
-
+# Data transformation logic
 logger = logging.getLogger(__name__)
 def clean_data(df):
     logger.info("Cleaning data")
