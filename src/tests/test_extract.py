@@ -74,4 +74,4 @@ def test_extract_row_count(spark):
         sales_schema
     )
 
-    assert df.count() == 13
+    assert df.count() == 14
